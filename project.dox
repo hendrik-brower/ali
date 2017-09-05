@@ -1,0 +1,14 @@
+// -*- mode: c++ mode -*-
+
+/// @mainpage aliLua - advanced Lua integration with C++
+///
+/// Documentation in this site covers the following libraries:
+///  * aliSystem
+///  * aliLuaCore
+///  * aliLuaExt
+///  * aliLuaExt2
+///  * aliLuaExt3
+///
+/// For more general information about the project, please review README.md
+/// and LICENSE.txt
+///

@@ -1,0 +1,8 @@
+*.out
+build/*
+html/*
+latex/*
+TAGS
+*.zip
+*.gz
+
